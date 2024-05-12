@@ -4,5 +4,5 @@
 
 layout: page
 title: Welcome to UMD GRAD-MAP!
-
+hero_image: /photos/planet.jpg
 ---
