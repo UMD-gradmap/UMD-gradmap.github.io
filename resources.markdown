@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Workshops 
-permalink: /workshops/
+title: Resources
+permalink: /resources/
 ---
 
 

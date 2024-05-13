@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   we additionally provide opportunities for graduate students to gain teaching
   and mentoring experience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://umd-gradmap.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GRADMAP
 github_username:  UMD-gradmap
 permalink: pretty
@@ -41,9 +41,14 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jekyll-redirect-from
+  - jekyll-avatar
 
 markdown: kramdown
 highlighter: rouge
+
+author:
+  name : "Mark Ivan Ugalino"
+  avatar : "/photos/PXL_20230908_172722547.jpg"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
