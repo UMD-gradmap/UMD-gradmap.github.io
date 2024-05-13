@@ -1,0 +1,22 @@
+- name : About Us
+  link : /about_us/
+- name : Workshops
+  link : /workshops/
+  dropdown:
+    - name : Winter Workshop
+      link : /workshops/winter_workshop/
+    - name : Summer Workshop
+      link : /workshops/summer_workshop/
+- name : Resources
+  link: /resources/
+  dropdown: 
+    - name : Bridge Programs
+      link: /resources/bridge_programs/
+    - name : Python Tutorials
+      link: /resources/python_tutorials/
+    - name : Coding in Astronomy
+      link: /resources/coding_astro/
+- name : Contact Us
+  link : /contact_us/
+
+

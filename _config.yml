@@ -30,11 +30,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GRADMAP
 github_username:  UMD-gradmap
+permalink: pretty
 
 # Build settings
 theme: bulma-clean-theme
 plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+markdown: kramdown
+highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.

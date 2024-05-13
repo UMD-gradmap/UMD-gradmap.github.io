@@ -5,7 +5,8 @@
 layout: page
 title: Welcome to UMD GRAD-MAP!
 hero_image: /photos/planet.jpg
-hero_link: https://www.umdgradmap.org/about-us
-hero_link_text: Learn More
-hero_darken:true
+hero_link: /about_us/
+hero_link_text: Meet the Team
+hero_darken : true
+
 ---
