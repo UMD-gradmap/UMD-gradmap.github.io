@@ -1,0 +1,51 @@
+- name: Hayley Beltz
+  photo: rock.jpg
+  info: Postdoctoral Associate, Department of Astronomy 
+  duration: Exoplanets
+  email: hbeltz (at) umd dot edu
+  number_educ: 0
+
+- name: Alberto Bolatto
+  photo: rock.jpg
+  duration: Radio Astronomy, Galaxies
+  info: Professor, Department of Astronomy 
+  email: bolatto (at) umd dot edu
+  number_educ: 0
+ 
+- name: Jordan Goodman
+  photo: rock.jpg
+  info: Distinguished University Professor, Department of Physics 
+  duration: Particle astrophysics
+  email: goodman (at) umd dot edu
+  number_educ: 0
+  
+- name: Thaddeus Komacek
+  photo: rock.jpg
+  info: Assistant Professor, Department of Astronomy 
+  duration: Exoplanets
+  email: tkomacek (at) umd dot edu
+  number_educ: 0
+  
+- name: Wolfgang Losert
+  photo: rock.jpg
+  info: Professor, Department of Physics 
+  duration: Complex Systems
+  email: wlosert (at) umd dot edu
+  number_educ: 0
+
+- name: Arpita Upadhyaya
+  photo: rock.jpg
+  info: Professor, Department of Physics
+  duration: Biophysics
+  email: arpitau (at) umd dot edu
+  number_educ: 0
+
+- name: Esteban Wright
+  photo: rock.jpg
+  info: Postdoctoral Associate, Department of Astronomy 
+  duration: Small Bodies
+  email: ewrigh10 (at) umd dot edu
+  number_educ: 0
+
+
+

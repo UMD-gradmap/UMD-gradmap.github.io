@@ -1,0 +1,42 @@
+- name: Robert Dalka, PhD
+  photo: rock.jpg
+  info: moving to University of Detroit<br> Physics education 
+  email: rpdalka@umd.edu
+  number_educ: 2
+  education1: PhD Physics, University of Maryland (2024)
+  education2: BS Physics, University of Michigan (2019)
+  
+- name: Shannon Gray
+  photo: rock.jpg
+  info: Physics PhD Student <br> Particle astrophysics
+  email: sjgray@umd.edu
+  number_educ: 2
+  education1: PhD Physics, University of Maryland
+  education2: BA Physics, Colby College (2021)
+  
+- name: Katya Leidig
+  photo: rock.jpg
+  info: Astronomy PhD Candidate <br> Computational astrophysics, galaxies
+  email: kleidig@umd.edu
+  number_educ: 2
+  education1: PhD Astronomy, University of Maryland
+  education2: BS Astronomy and Physics, Minor in Deaf Studies, Boston University (2020)
+
+- name: Arjun Savel
+  photo: rock.jpg
+  info: Astronomy PhD Candidate <br> Computational astrophysics, exoplanets
+  email: asavel@umd.edu
+  number_educ: 2
+  education1: PhD Astronomy, University of Maryland
+  education2: BA Astrophysics and Physics, University of California Berkeley (2020)
+
+  
+- name: Mark Ugalino
+  photo: rock.jpg
+  info: Astronomy PhD Student <br> Computational astrophysics, galaxies
+  email: ugalino@umd.edu
+  number_educ: 4
+  education1: PhD Astronomy, University of Maryland 
+  education2: MS Physics, University of Massachusetts Dartmouth (2023)
+  education3: MS Physics, University of the Philippines Diliman (2020)
+  education4: BS Physics, University of the Philippines Diliman (2018)

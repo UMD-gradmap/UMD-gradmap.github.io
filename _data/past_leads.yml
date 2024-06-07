@@ -1,0 +1,58 @@
+- name: Katie Jameson
+  photo: rock.jpg
+  info: Postdoctoral Researcher, Australian National University 
+  duration: Katie founded GRAD-MAP in 2013 with a group of astronomy and physics grad students.
+  number_educ: 0
+
+- name: Ashlee Wilkins
+  photo: rock.jpg
+  info: House Science Committee
+  duration: Ashlee was part of the founding team of GRAD-MAP and defended her PhD thesis in 2017. 
+  number_educ: 0
+
+- name: Robyn Smith
+  photo: rock.jpg
+  info: now in private sector
+  duration: Robyn became team lead in 2016 during her second year at UMD. She was responsible for building ties to the TREND physics REU program.
+  number_educ: 0
+
+- name: John Collini
+  photo: rock.jpg
+  info: PhD Candidate, Department of Physics
+  duration: John Collini started working with GRAD-MAP in 2016 by mentoring students and assisting with the python boot-camp of the Winter Workshop.
+  number_educ: 0
+
+- name: Milena Crnogorcevic
+  photo: rock.jpg
+  info: Postdoctoral Fellow, Oskar Klein Centre
+  duration: Milena joined GRAD-MAP in her first year of graduate school in 2017 and was an Astronomy Team co-lead from 2019. She was also involved in a number of other diversity initiatives at UMD.
+  number_educ: 0
+
+- name: Andrew Guo
+  photo: rock.jpg
+  info: Postdoctoral Fellow, Sandia National Laboratory, Co-Lead (2020-2022)
+  duration: Andrew taught Python for GRAD-MAP from 2017-2022. 
+
+- name: Charlotte Ward
+  photo: rock.jpg
+  info: Posdoctoral Researcher, Princeton University, Co-Lead (2020-2022)
+  duration: In 2018 and 2019, Charlotte mentored Winter Workshop students on AGN research projects and gave various presentations.
+  number_educ: 0
+
+- name: Amitava Banerjee
+  photo: rock.jpg
+  info: PhD Candidate, Department of Physics, Co-Lead (2022)
+  duration: Amitava helped with the application review gave presentations and feedback to scholars while they were preparing their talks. 
+  number_educ: 0
+
+- name: Tomás Ahumada
+  photo: rock.jpg
+  info: GRAD-MAP Volunteer (2019-2021)
+  duration: Tomas mentored students for the Winter Workshop (2021) and has developed and given Python lectures during the 2019-2021 Winter Workshops.
+  number_educ: 0
+
+- name: Stuart Vogel
+  photo: rock.jpg
+  info: Faculty Advisor (2013-2021), Professor Emeritus, Department of Astronomy
+  duration: Stuart provided general-purpose mentoring for the Summer Scholars, and he was the primary faculty support to the GRAD-MAP Team Leads. 
+  number_educ: 0
