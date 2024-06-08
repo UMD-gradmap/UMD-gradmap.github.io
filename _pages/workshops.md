@@ -1,14 +1,14 @@
 ---
 title: "UMD GRAD-MAP - Workshops"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "UMD GRAD-MAP - Workshops"
 sitemap: false
-permalink: /publications/
+permalink: /workshops
 ---
 
 
 # Workshops
 
-## Group highlights
+
 
 
