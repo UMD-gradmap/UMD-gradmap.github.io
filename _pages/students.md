@@ -6,9 +6,7 @@ sitemap: false
 permalink: /students
 ---
 # 2024 Summer Scholars Cohort
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+
 # Program Alumni
 ## Summer Scholars
 <div class="row">
