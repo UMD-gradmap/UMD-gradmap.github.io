@@ -1,3 +1,17 @@
+- name: Lacey Alley-Press
+  photo: apress.jpeg
+  info: PhD Student, Department of Astronomy
+  duration: 
+  email: laceyap (at) umd dot edu
+  number_educ: 0
+
+- name: Ell Bogat
+  photo: bogat.jpeg
+  info: PhD Candidate, Department of Astronomy
+  duration: 
+  email: ebogat (at) umd dot edu
+  number_educ: 0
+  
 - name: Jacob Bringewatt
   photo: bringewatt.jpg
   info: PhD Physics '24 (University of Maryland), moving to Harvard University 
@@ -19,6 +33,13 @@
   email: cronin (at) umd dot edu
   number_educ: 0
   
+- name: Kylie Dan
+  photo: dan.jpeg
+  info: PhD Student, Department of Astronomy
+  duration: 
+  email: ebogat (at) umd dot edu
+  number_educ: 0
+  
 - name: Joe DeMartini
   photo: demartini.jpg
   info: PhD Candidate, Department of Astronomy
@@ -32,6 +53,13 @@
   duration: Alex assisted with the Python bootcamp during the Winter Workshops from 2020-2023.
   email: dittmann (at) umd dot edu
   number_educ: 0
+  
+- name: Jordan Ealy
+  photo: ealy.jpg
+  info: PhD Candidate, Department of Astronomy
+  duration: Jordan is a summer research mentor during the 2024 Summer Scholars program with Prof. Komacek.
+  email: jealy (at) umd dot edu
+  number_educ: 0
 
 - name: Frank Fazekas
   photo: fazekas.jpg
@@ -39,5 +67,25 @@
   duration: Matthew is a summer research mentor during the 2024 Summer Scholars program with Prof. Upadhyaya.
   email: ffazekas (at) umd dot edu
   number_educ: 0
+  
+- name: Jaiden Moore
+  photo: moore.jpeg
+  info: PhD Student, Department of Physics
+  duration: 
+  email: jmoore40 (at) umd dot edu
+  number_educ: 0
 
+- name: Calvin Osinga
+  photo: osinga.jpg
+  info: PhD Candidate, Department of Astronomy 
+  duration: 
+  email: cosinga (at) umd dot edu
+  number_educ: 0
+
+- name: Siddhant Solanki
+  photo: solanki.jpeg
+  info: PhD Student, Department of Astronomy
+  duration: 
+  email: siddhant (at) umd dot edu
+  number_educ: 0
 
