@@ -7,7 +7,6 @@ permalink: /team/
 ---
 
 # Meet our Team
-<br>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/gradmap_founders.png" class="img-responsive" title="GRAD-MAP founders: Dr. Ashlee Wilkins (left), Dr. Katie Jameson (center), and Dr. Alex McCormick (right)." width="40%" style="float: left" /> 
 <br>
@@ -27,7 +26,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="120px" height="160px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -90,7 +89,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
   <ul style="overflow: hidden">
@@ -124,7 +123,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
   <ul style="overflow: hidden">
@@ -157,7 +156,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
   <ul style="overflow: hidden">
@@ -193,7 +192,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
   <ul style="overflow: hidden">

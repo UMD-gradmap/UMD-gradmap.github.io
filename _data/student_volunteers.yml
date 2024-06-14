@@ -1,40 +1,40 @@
 - name: Jacob Bringewatt
-  photo: bio-photo.jpg
+  photo: bringewatt.jpg
   info: PhD Physics '24 (University of Maryland), moving to Harvard University 
   duration: Jacob has volunteered for the GRAD-MAP Winter Workshop in both 2021 and 2022 as a project mentor and panelist.
   email: mconnel3 (at) umd dot edu
   number_educ: 0
 
 - name: Matthew Connell
-  photo: bio-photo.jpg
+  photo: connell.jpeg
   info: PhD Student, Department of Physics 
   duration: Matthew is a summer research mentor during the 2024 Summer Scholars program with Prof. Upadhyaya.
   email: mconnel3 (at) umd dot edu
   number_educ: 0
   
 - name: Serena Cronin
-  photo: bio-photo.jpg
+  photo: cronin.jpg
   info: PhD Candidate, Department of Astronomy
   duration: Serena is a summer research mentor during the 2024 Summer Scholars program with Prof. Bolatto.
   email: cronin (at) umd dot edu
   number_educ: 0
   
 - name: Joe DeMartini
-  photo: bio-photo.jpg
+  photo: demartini.jpg
   info: PhD Candidate, Department of Astronomy
   duration: Joe participated with the GRAD-MAP 2018 Open House event and the 2019 Winter Workshop as a mentor. 
   email: jdema (at) umd dot edu
   number_educ: 0
   
-- name: Alex Dittman, PhD
-  photo: bio-photo.jpg
+- name: Alex Dittmann
+  photo: dittmann.jpg
   info: PhD Astronomy '24 (University of Maryland), moving to IAS Princeton University
   duration: Alex assisted with the Python bootcamp during the Winter Workshops from 2020-2023.
   email: dittmann (at) umd dot edu
   number_educ: 0
 
 - name: Frank Fazekas
-  photo: bio-photo.jpg
+  photo: fazekas.jpg
   info: PhD Student, Department of Physics 
   duration: Matthew is a summer research mentor during the 2024 Summer Scholars program with Prof. Upadhyaya.
   email: ffazekas (at) umd dot edu
