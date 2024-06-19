@@ -1,180 +1,36 @@
 ---
 title: "UMD GRAD-MAP - Students"
-layout: textlay
+layout: gridlay
 excerpt: "UMD GRAD-MAP - Students"
 sitemap: false
 permalink: /students
 ---
 # 2024 Summer Scholars Cohort
+{% assign number_printed = 0 %}
+{% for member in site.data.ss_current %}
 
-# Program Alumni
-## Summer Scholars
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2023</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="150px" height="240px" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  Mentor: <i>{{ member.adviser }}</i> <br> {{ member.info }}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>2022</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
+{% assign number_printed = number_printed | plus: 1 %}
 
-<div class="col-sm-4 clearfix">
-<h4>2021</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
+{% if even_odd == 1 %}
 </div>
-</div>
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2020</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
+{% endif %}
 
-<div class="col-sm-4 clearfix">
-<h4>2019</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
 {% endfor %}
-</div>
 
-<div class="col-sm-4 clearfix">
-<h4>2018</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
 </div>
-</div>
+{% endif %}
 
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2017</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2016</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2015</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2014</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2013</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
-
-## Winter Scholars
-
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2023</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2022</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2021</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2020</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2019</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2018</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2017</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2016</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2015</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-4 clearfix">
-<h4>2014</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>2013</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>

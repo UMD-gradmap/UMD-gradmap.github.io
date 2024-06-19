@@ -1,0 +1,49 @@
+- name: Shiri Nchotu
+  photo: students/nchotu.jpg
+  adviser: Arpita Upadhyaya
+  info: Shiri is currently working on a biophysics project over the summer with Prof Upadhyaya.  
+  number_educ: 
+  education1: 
+  
+- name: Rhiannon Paterson
+  photo: students/paterson.jpg
+  adviser: Alberto Bolatto / Serena Cronin
+  info: Rhiannon is working with Dr. Bolatto and Serena Cronin to map CO distribution throughout galaxies. She is a rising senior at Mercyhurst University majoring in political science and chemistry, and hopes to pursue a Ph.D. in physical chemistry and work in astrochemistry research on nebulae and supernovae.
+  number_educ: 
+  education1: 
+
+- name: Emau Argueta
+  photo: students/argueta.jpg
+  adviser: Wolfgang Losert / Esteban Wright
+  info: Emau is a mathematics and physics major researching the impacts of granular material, in hopes to scale to planetary/asteroidal collisions in space, as well as their energy distribution throughout a diverse difference of masses.  
+  number_educ: 
+  education1: 
+
+- name: Biruk Nardos
+  photo: students/nardos.jpg
+  adviser: Matthew Nixon
+  info: Biruk is currently working on an exoplanets atmosphere project over the summer with Dr Matthew Nixon.   
+  number_educ: 
+  education1: 
+   
+- name: Anshuraj Sedai
+  photo: students/sedai.jpg
+  adviser: Tad Komacek
+  info: Anshuraj a rising junior at Caldwell University. He is doing a double major in Computer Science and Mathematics. He aspires to become a computational astrophysicist. He is interested in observational astronomy, exoplanets, galactic evolution and sci-comm.   
+  number_educ: 
+  education1: 
+  
+- name: Kyree Standifer
+  photo: students/standifer.jpg
+  adviser: Jordan Goodman
+  info: Kyree is currently working on a particle astrophysics project over the summer with Prof Goodman.  
+  number_educ: 
+  education1: 
+
+- name: Cristofer Varela
+  photo: students/varela.jpg
+  adviser: Hayley Beltz
+  info: Cris is currently working on modeling time-variability in Ultra-Hot Jupiter Atmospheres. When he is not simulating atmospheres, he's either boxing, skating or gaming with his friends.  
+  number_educ: 
+  education1: 
+

@@ -1,0 +1,158 @@
+---
+title: "UMD GRAD-MAP - Students"
+layout: gridlay
+excerpt: "UMD GRAD-MAP - Students"
+sitemap: false
+permalink: /students
+---
+# 2024 Summer Scholars Cohort
+{% assign number_printed = 0 %}
+{% for member in site.data.ss_current %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+# Program Alumni
+## Summer Scholars
+{% assign number_printed = 0 %}
+{% for member in site.data.ss_alumni %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="120px" height="160px" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }}</i> <br> Role: {{ member.info }}
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+## Winter Scholars
+
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4><b>2024</b></h4>
+{% for member in site.data.ww_2024 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2023</b></h4>
+{% for member in site.data.ww_2023 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2022</b></h4>
+{% for member in site.data.ww_2022 %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4><b>2021</b></h4>
+{% for member in site.data.ww_2021 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2020</b></h4>
+{% for member in site.data.ww_2020 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2019</b></h4>
+{% for member in site.data.ww_2019 %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4><b>2018</b></h4>
+{% for member in site.data.ww_2018 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2017</b></h4>
+{% for member in site.data.ww_2017 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2016</b></h4>
+{% for member in site.data.ww_2016 %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-4 clearfix">
+<h4><b>2015</b></h4>
+{% for member in site.data.ww_2015 %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4><b>2014</b></h4>
+{% for member in site.data.ww_2014 %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
