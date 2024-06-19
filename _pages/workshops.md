@@ -1,15 +1,14 @@
 ---
 title: "UMD GRAD-MAP - Workshops"
-layout: gridlay
+layout: textlay
 excerpt: "UMD GRAD-MAP - Workshops"
 sitemap: true
 permalink: /workshops
 ---
 
-
-# Workshops
-
-## Winter Workshop
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/winter.png" class="img-responsive" width="100%" style="float: center" /> 
+</center>
 ### Where and When?
 The 2024 GRAD-MAP Winter Workshop took place online (over Zoom) in January 2024.
 ### Cost 
@@ -42,7 +41,9 @@ All tours will be held virtually for Winter Workshop 2024. The Washington, DC ar
 * Johns Hopkins Applied Physics Laboratory (APL)
 * National Radio Astronomy Observatory at Green Bank
 
-## Summer Scholars
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/summer.png" class="img-responsive" width="100%" style="float: center" /> 
+</center>
 The GRAD-MAP Summer Scholars are selected from GRAD-MAP Winter Workshop alumni to participate in an enhanced, 10 week long, paid summer research program held at UMD, College Park. The Summer Scholars Program is meant to expand upon the experiences of the Winter Workshop (e.g., research skill building, cohort facilitation, and science identity development) through full research projects.
 
 Applications for Summer 2024 are now open! They are due Friday, March 15th, at 5PM ET.
