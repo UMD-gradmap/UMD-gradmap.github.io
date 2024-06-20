@@ -1,15 +1,17 @@
 ---
 title: "UMD GRAD-MAP - Resources"
-layout: textlay
+layout: gridlay
 excerpt: "UMD GRAD-MAP - Resources"
 sitemap: false
 permalink: /resources
 ---
 
 
-# Resources
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/resources.png" width="100%" style="float: center" /> 
+</center>
 
-## Physics and Astronomy Bridge Programs
+# Physics and Astronomy Bridge Programs
 
 In recent years, the fields of astronomy and physics have seen a growth in the number of post-baccalaureate programs for students in between undergraduate and graduate programs. Bridge programs vary in the details from school to school, but they all have similar goals: provide the experience, support, and preparation for students who might otherwise not be able to get in to Ph.D. programs in Physics/Astronomy. They tend to specifically target underrepresented minorities, but are open to any student who could benefit from the program. The programs generally all feature:
 

@@ -5,7 +5,10 @@ excerpt: "UMD GRAD-MAP - Students"
 sitemap: false
 permalink: /students
 ---
-# 2024 Summer Scholars Cohort
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024ss.png" width="100%" style="float: center" /> 
+</center>
+<br>
 {% assign number_printed = 0 %}
 {% for member in site.data.ss_current %}
 
@@ -33,4 +36,5 @@ permalink: /students
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+<br>
 

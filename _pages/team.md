@@ -6,7 +6,10 @@ sitemap: false
 permalink: /team/
 ---
 
-# Meet our Team
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/team.png" width="100%" style="float: center" /> 
+</center>
+<br>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/gradmap_founders.png" class="img-responsive" title="GRAD-MAP founders: Dr. Ashlee Wilkins (left), Dr. Katie Jameson (center), and Dr. Alex McCormick (right)." width="40%" style="float: left" /> 
 <br>
