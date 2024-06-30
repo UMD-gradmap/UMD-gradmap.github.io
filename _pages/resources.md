@@ -23,5 +23,5 @@ In recent years, the fields of astronomy and physics have seen a growth in the n
 
 Further benefits (e.g. granting of a Master's degree or a fast-track into a Ph.D. program) and requirements (e.g., citizenship) vary from school to school, so please read the websites linked below for details.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLL6EQZbPj4PnOhQJykkCpl183H48s7JnU-vDaOJvwg1SuwqRXbfIV32FAehSAsw27AMMNO_Bvlnif/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="950" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLL6EQZbPj4PnOhQJykkCpl183H48s7JnU-vDaOJvwg1SuwqRXbfIV32FAehSAsw27AMMNO_Bvlnif/pubhtml?widget=true&amp;headers=false"></iframe>
 
