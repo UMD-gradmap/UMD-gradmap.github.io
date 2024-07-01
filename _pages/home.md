@@ -13,6 +13,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -22,6 +23,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank.jpg" alt="GRADMAP Summer Scholars at Green Bank" height="500" width="1000"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank2.jpg" alt="Journal Club" height="500" width="1000"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/journalclub.jpeg" alt="Journal Club" height="500" width="1000"/>
