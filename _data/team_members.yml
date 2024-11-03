@@ -1,11 +1,3 @@
-- name: Robert Dalka, PhD
-  photo: dalka.jpeg
-  info: moving to University of Detroit<br> Physics education 
-  email: rpdalka@umd.edu
-  number_educ: 2
-  education1: PhD Physics, University of Maryland (2024)
-  education2: BS Physics, University of Michigan (2019)
-  
 - name: Shannon Gray
   photo: gray.jpg
   info: Physics PhD Student <br> Particle astrophysics
@@ -13,6 +5,14 @@
   number_educ: 2
   education1: PhD Physics, University of Maryland
   education2: BA Physics, Colby College (2021)
+  
+- name: Yash Gursahani
+  photo: gursahani.jpg
+  info: Astronomy PhD Student <br> High energy astrophysics
+  email: yashag@umd.edu
+  number_educ: 2
+  education1: PhD Astronomy, University of Maryland
+  education2: BS Astrophysics, University of California Los Angeles (2023)
   
 - name: Katya Leidig
   photo: leidig.jpg
