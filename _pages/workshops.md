@@ -14,7 +14,7 @@ The 2024 GRAD-MAP Winter Workshop took place online (over Zoom) in January 2024.
 ### Cost 
 The Winter Workshop has no fee. Participants need only have internet connection for the duration of the workshop.
 ### Eligibility 
-Any undergraduate student at a US institution potentially interested in pursuing a career/graduate school in physics or astronomy and who supports the GRAD-MAP mission may apply. Preference is given to students from institutions without significant undergraduate research opportunities, including community colleges. Students who identify as belonging to historically marginalized groups (including African-American, Latinx, and Native American) are strongly encouraged to apply. 
+Any undergraduate student at a US institution potentially interested in pursuing a career/graduate school in physics or astronomy and who supports the GRAD-MAP mission may apply. Preference is given to students from institutions without significant undergraduate research opportunities, including community colleges. We invite students from a wide variety of backgrounds to apply.
 
 Applications for the Winter Workshop will open at the beginning of November.​
 
