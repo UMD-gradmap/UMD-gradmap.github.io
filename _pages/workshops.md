@@ -5,6 +5,9 @@ excerpt: "UMD GRAD-MAP - Workshops"
 sitemap: true
 permalink: /workshops
 ---
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/3.png" class="img-responsive" width="100%" style="float: center" /> 
+</center>
 
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/winter.png" class="img-responsive" width="100%" style="float: center" /> 
