@@ -6,7 +6,7 @@ sitemap: true
 permalink: /workshops
 ---
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/3.png" width="100%"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/3.png" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" /> 
 </center>
 
 ### Where and When?

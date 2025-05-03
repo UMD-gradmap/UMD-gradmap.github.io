@@ -6,7 +6,7 @@ sitemap: false
 permalink: /contactus
 ---
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/6.png" class="img-responsive" width="100%" style="float: center" /> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/6.png" class="img-responsive" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" /> 
 </center>
 <br>
 #### Most GRAD-MAP events are held in the vicinity of the Physical Sciences Complex, home to the main offices of both the physics and the astronomy departments. For detailed driving and parking directions, see this [page](https://www.astro.umd.edu/about/contact.html#directions); always check the information from a specific event for exact locations and logistical details.
