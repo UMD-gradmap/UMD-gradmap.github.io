@@ -6,6 +6,6 @@ permalink: /gallery
 ---
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallery.png" class="img-responsive" width="100%" style="float: center" /> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/4.png" class="img-responsive" width="100%" style="float: center" /> 
 </center>
 <br>
