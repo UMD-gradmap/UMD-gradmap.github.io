@@ -5,11 +5,10 @@ excerpt: "UMD GRAD-MAP - Resources"
 sitemap: false
 permalink: /resources
 ---
-
-
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/resources.png" width="100%" style="float: center" /> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/5.png" class="img-responsive" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" /> 
 </center>
+
 
 # Physics and Astronomy Bridge Programs
 
