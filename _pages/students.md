@@ -6,7 +6,7 @@ sitemap: false
 permalink: /students
 ---
 <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" />
 </center>
 
 {% assign number_printed = 0 %}
