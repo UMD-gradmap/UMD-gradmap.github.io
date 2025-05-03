@@ -8,11 +8,9 @@ permalink: /students
 <center>
   <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" />
 </center>
-
-<div style="text-align: center; ; font-size: 24px;">2025</div>
-
+## 2025
 {% assign number_printed = 0 %}
-{% for member in site.data.ss_2025 %}
+{% for member in site.data.ss_current%}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -40,11 +38,9 @@ permalink: /students
 {% endif %}
 <br>
 
-
-<div style="text-align: center; ; font-size: 24px;">2024</div>
-
+## 2024
 {% assign number_printed = 0 %}
-{% for member in site.data.ss_current %}
+{% for member in site.data.ss_2024 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
