@@ -53,12 +53,10 @@ We are supported by the [Physics](https://umdphysics.umd.edu/) and [Astronomy](h
 <figure class="fifth">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/astro.png" style="width: 120px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px"> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/simons.png" style="width: 250px"/> <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics.png" style="width: 250px; margin-right:6px"> 
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ipst.png" style="width: 310px"> <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cmns.png" style="width: 450px"/> <br>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/growth.png" style="width: 350px">
 </figure> <br>
