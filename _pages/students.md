@@ -6,9 +6,9 @@ sitemap: false
 permalink: /students
 ---
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" style="float: center" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" />
 </center>
-<br>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.ss_current %}
 

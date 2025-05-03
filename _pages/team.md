@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2.png" width="100%" style="float: center" /> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2.png" width="100%"/> 
 </center>
 <br>
 
