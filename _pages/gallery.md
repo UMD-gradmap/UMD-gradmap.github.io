@@ -1,6 +1,6 @@
 ---
 title: "UMD GRAD-MAP - Gallery"
-layout: gridlay
+layout: default
 excerpt: "UMD GRAD-MAP -- Gallery"
 permalink: /gallery
 ---
