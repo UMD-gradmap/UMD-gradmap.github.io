@@ -11,20 +11,11 @@ permalink: /gallery
 <br>
 
 <div class="gallery">
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/gradmap_founders.png" alt="Image 1">
-    <figcaption>Image 1 caption</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/gradmap_founders.png" alt="Image 2">
-    <figcaption>Image 2 caption</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/gradmap_founders.png" alt="Image 3">
-    <figcaption>Image 3 caption</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/gradmap_founders.png" alt="Image 4">
-    <figcaption>Image 4 caption</figcaption>
-  </figure>
+  {% assign images = "1.png,2.png.3.png,4.png" | split: "," %}
+  {% for img in images %}
+    <figure>
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gallery/{{ img }}" alt="{{ img }}">
+      <figcaption>{{ img | remove: ".jpg" | replace: "-", " " | capitalize }}</figcaption>
+    </figure>
+  {% endfor %}
 </div>
