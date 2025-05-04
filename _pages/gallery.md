@@ -11,10 +11,10 @@ permalink: /gallery
 <br>
 
 <div class="gallery">
-  {% assign images = "1.png,2.png.3.png,4.png" | split: "," %}
+  {% assign images = "1.png,2.png,3.png,4.png" | split: "," %}
   {% for img in images %}
     <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gallery/{{ img }}" alt="{{ img }}">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ img }}" alt="{{ img }}">
       <figcaption>{{ img | remove: ".jpg" | replace: "-", " " | capitalize }}</figcaption>
     </figure>
   {% endfor %}
