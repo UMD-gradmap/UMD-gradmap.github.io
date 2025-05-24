@@ -10,4 +10,14 @@ permalink: /gallery
 </center>
 <br>
 
-
+<div class="image-gallery">
+  <div class="box">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank.jpg" class="img-gallery" alt="Image 1">
+  </div>
+  <div class="box">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank2.jpg" class="img-gallery" alt="Image 2">
+  </div>
+  <div class="box">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/journalclub.jpeg" class="img-gallery" alt="Image 3">
+  </div>
+</div>
