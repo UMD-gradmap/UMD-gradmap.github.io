@@ -12,12 +12,12 @@ permalink: /gallery
 
 <div class="image-gallery">
   <div class="box">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank.jpg" class="img-gallery" alt="Image 1">
+    <img src="https://www.umdgradmap.org/images/sliders/greenbank.jpg" class="img-gallery" alt="Image 1">
   </div>
   <div class="box">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/greenbank2.jpg" class="img-gallery" alt="Image 2">
+    <img src="https://www.umdgradmap.org/images/sliders/greenbank2.jpg" class="img-gallery" alt="Image 2">
   </div>
   <div class="box">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/sliders/journalclub.jpeg" class="img-gallery" alt="Image 3">
+    <img src="https://www.umdgradmap.org/images/sliders/journalclub.jpeg" class="img-gallery" alt="Image 3">
   </div>
 </div>
