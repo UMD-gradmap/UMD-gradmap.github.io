@@ -1,0 +1,103 @@
+---
+title: "UMD GRAD-MAP - Workshops"
+layout: gridlay
+excerpt: "UMD GRAD-MAP - Workshops"
+sitemap: true
+permalink: /workshops
+---
+
+<style>
+  .toggle-header {
+    cursor: pointer;
+    background-color: #f0f0f0;
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+
+  .toggle-content {
+    display: none;
+    margin-bottom: 1em;
+    padding: 0 1em;
+    border-left: 4px solid #ccc;
+  }
+
+  .active + .toggle-content {
+    display: block;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const headers = document.querySelectorAll(".toggle-header");
+    headers.forEach(header => {
+      header.addEventListener("click", () => {
+        header.classList.toggle("active");
+        const content = header.nextElementSibling;
+        content.style.display = content.style.display === "block" ? "none" : "block";
+      });
+    });
+  });
+</script>
+
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/3.png" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block;" /> 
+</center>
+
+<br>
+
+<h2>GRAD-MAP Winter Workshop</h2>
+
+<div class="toggle-header">📍 Where and When?</div>
+<div class="toggle-content">
+  The 2024 GRAD-MAP Winter Workshop took place online (over Zoom) in January 2024.
+</div>
+
+<div class="toggle-header">💰 Cost</div>
+<div class="toggle-content">
+  The Winter Workshop has no fee. Participants only need a stable internet connection.
+</div>
+
+<div class="toggle-header">✅ Eligibility</div>
+<div class="toggle-content">
+  Open to undergraduates in the U.S. interested in physics/astronomy. Priority is given to students from institutions without access to research, including community colleges. Applications open in November.
+</div>
+
+<div class="toggle-header">🧭 Professional Development</div>
+<div class="toggle-content">
+  <ul>
+    <li>Seminars on grad school, internships, and careers in physics and astronomy.</li>
+    <li>Workshops on essays, presentations, and navigating barriers to research.</li>
+  </ul>
+</div>
+
+<div class="toggle-header">💻 Scientific Computing with Python</div>
+<div class="toggle-content">
+  Beginner-friendly Python tutorials using Anaconda and Jupyter notebooks, adapted from the Goddard Python Bootcamp.
+</div>
+
+<div class="toggle-header">🔬 Research Projects</div>
+<div class="toggle-content">
+  Students carry out mini-projects with UMD mentors in a wide range of fields. Final presentations wrap up the workshop.
+</div>
+
+<div class="toggle-header">🏛️ Tours of Scientific Facilities</div>
+<div class="toggle-content">
+  Virtual visits to NIST, NASA Goddard, Johns Hopkins APL, and NRAO Green Bank. These institutions offer internship and career opportunities for students.
+</div>
+
+<br>
+
+<h2>GRAD-MAP Summer Scholars</h2>
+
+<div class="toggle-header">📚 Program Overview</div>
+<div class="toggle-content">
+  Winter Workshop alumni may apply to this 10-week paid summer research program. It expands on the winter experience with full research projects and weekly cohort activities.
+</div>
+
+<div class="toggle-header">🗓️ Application Timeline</div>
+<div class="toggle-content">
+  Applications for Summer 2024 are now open! Deadline: <strong>Friday, March 15 at 5PM ET</strong>.
+</div>
+
