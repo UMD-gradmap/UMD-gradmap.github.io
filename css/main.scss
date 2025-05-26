@@ -126,48 +126,41 @@ firstp {
   }
 }
 
-/* Collapsible section styles for details/summary */
 details {
-  margin: 1em 0;
-  padding: 0.5em 1em;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: #f9f9f9;
-  transition: background-color 0.3s ease;
-}
-
-details[open] {
-  background-color: #f1f1f1;
-  border-color: #999;
-}
-
-summary {
-  font-weight: 600;
-  cursor: pointer;
-  outline: none;
-  padding: 0.5em 0;
-  font-size: 1.1em;
-}
-
-summary::marker,
-summary::-webkit-details-marker {
-  color: #3c3c3c;
-}
-
-details > *:not(summary) {
-  margin-top: 0.5em;
-}
-
-/* Fix Bootstrap override issues */
-details, summary {
   display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 1.5em 0;
+  padding: 1em;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  overflow: visible !important;
+  position: relative;
+  box-sizing: border-box;
+  clear: both;
 }
 
-summary::-webkit-details-marker {
-  display: inline; /* ensures markers stay visible */
+details summary {
+  font-weight: 600;
+  font-size: 1.1em;
+  cursor: pointer;
+  list-style: none;
+  padding: 0.25em 0;
 }
 
-summary {
-  list-style: none; /* prevent bullets */
+details summary::-webkit-details-marker {
+  display: none;
 }
 
+details summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.5em;
+  transform: rotate(0deg);
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
