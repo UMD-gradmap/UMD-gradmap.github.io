@@ -158,3 +158,16 @@ details > *:not(summary) {
   margin-top: 0.5em;
 }
 
+/* Fix Bootstrap override issues */
+details, summary {
+  display: block !important;
+}
+
+summary::-webkit-details-marker {
+  display: inline; /* ensures markers stay visible */
+}
+
+summary {
+  list-style: none; /* prevent bullets */
+}
+
