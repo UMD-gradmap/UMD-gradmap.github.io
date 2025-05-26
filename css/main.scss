@@ -126,4 +126,35 @@ firstp {
   }
 }
 
+/* Collapsible section styles for details/summary */
+details {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  transition: background-color 0.3s ease;
+}
+
+details[open] {
+  background-color: #f1f1f1;
+  border-color: #999;
+}
+
+summary {
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  padding: 0.5em 0;
+  font-size: 1.1em;
+}
+
+summary::marker,
+summary::-webkit-details-marker {
+  color: #3c3c3c;
+}
+
+details > *:not(summary) {
+  margin-top: 0.5em;
+}
 
