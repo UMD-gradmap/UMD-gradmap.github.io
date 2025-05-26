@@ -1,6 +1,6 @@
 - name: Shannon Gray
   photo: gray.jpg
-  info: Physics PhD Student <br> Particle astrophysics
+  info: Physics PhD Candidate <br> Particle astrophysics
   email: sjgray@umd.edu
   number_educ: 2
   education1: PhD Physics, University of Maryland
@@ -14,7 +14,7 @@
   education1: PhD Astronomy, University of Maryland
   education2: BS Astrophysics, University of California Los Angeles (2023)
   
-- name: Mark Ugalino
+- name: Mark Ugalino (Webmaster)
   photo: ugalino.png
   info: Astronomy PhD Student <br> Computational astrophysics, galaxies
   email: ugalino@umd.edu
