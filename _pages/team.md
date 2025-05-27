@@ -114,7 +114,7 @@ GRAD-MAP is led by a team of graduate students from the Astronomy and Physics De
 
 
 
-## 2024 Research Mentors
+## 2025 Research Mentors
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty_mentors %}
 

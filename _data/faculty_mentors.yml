@@ -4,55 +4,113 @@
   duration: Exoplanets
   email: hbeltz (at) umd dot edu
   number_educ: 0
+  
+- name: Ankita Bera
+  photo: bera.png
+  duration: Computational astrophysics, high-redshift cosmology
+  info: Postdoctoral Associate, Department of Astronomy 
+  email: bolatto (at) umd dot edu
+  number_educ: 0
+  
+- name: Kylie Dan
+  photo: dan.jpeg
+  duration: Active Galactic Nuclei
+  info: Graduate student, Department of Astronomy 
+  email: kydan (at) umd dot edu
+  number_educ: 0
 
+- name: Johnny Seebeck
+  photo: seebeck.png
+  duration: Active Galactic Nuclei
+  info: Graduate student, Department of Astronomy
+  email: bolatto (at) umd dot edu
+  number_educ: 0
+
+- name: Serena Cronin
+  photo: cronin.jpg
+  duration: Active Galactic Nuclei
+  info: Graduate student, Department of Astronomy
+  email: bolatto (at) umd dot edu
+  number_educ: 0
+
+- name: Keaton Donaghue
+  photo: donaghue.png
+  duration: Radio Astronomy, Galaxies
+  info: Graduate student, Department of Astronomy
+  email: bolatto (at) umd dot edu
+  number_educ: 0
+  
 - name: Alberto Bolatto
   photo: bolatto.jpg
   duration: Radio Astronomy, Galaxies
   info: Professor, Department of Astronomy 
   email: bolatto (at) umd dot edu
   number_educ: 0
- 
-- name: Jordan Goodman
-  photo: goodman.jpg
-  info: Distinguished University Professor, Department of Physics 
-  duration: Particle astrophysics
-  email: goodman (at) umd dot edu
+
+- name: Sylvain Veilleux
+  photo: veilleux.png
+  duration: Active Galactic Nuclei
+  info: Professor, Department of Astronomy 
+  email: bolatto (at) umd dot edu
   number_educ: 0
-  
-- name: Thaddeus Komacek
-  photo: komacek.jpg
+
+- name: Benedikt Diemer
+  photo: diemer.jpg
+  duration: Computational astrophysics, galaxies, cosmology
   info: Assistant Professor, Department of Astronomy 
-  duration: Exoplanets
-  email: tkomacek (at) umd dot edu
+  email: diemer (at) umd dot edu
   number_educ: 0
+
+- name: Mark Ugalino
+  photo: ugalino.png
+  duration: Computational astrophysics, galaxies
+  info: Graduate student, Department of Astronomy 
+  email: ugalino (at) umd dot edu
+  number_educ: 0
+
   
-- name: Wolfgang Losert
-  photo: losert.jpg
-  info: Professor, Department of Physics 
-  duration: Complex Systems
-  email: wlosert (at) umd dot edu
-  number_educ: 0
  
-- name: Matthew Nixon
-  photo: nixon.png
-  info: Postdoctoral Associate, Department of Astronomy 
-  duration: Exoplanets
-  email: mcnixon (at) umd dot edu
-  number_educ: 0
+#- name: Jordan Goodman
+#  photo: goodman.jpg
+#  info: Distinguished University Professor, Department of Physics 
+#  duration: Particle astrophysics
+#  email: goodman (at) umd dot edu
+#  number_educ: 0
+  
+#- name: Thaddeus Komacek
+#  photo: komacek.jpg
+#  info: Assistant Professor, Department of Astronomy 
+#  duration: Exoplanets
+#  email: tkomacek (at) umd dot edu
+#  number_educ: 0
+  
+#- name: Wolfgang Losert
+#  photo: losert.jpg
+#  info: Professor, Department of Physics 
+#  duration: Complex Systems
+#  email: wlosert (at) umd dot edu
+#  number_educ: 0
+ 
+#- name: Matthew Nixon
+#  photo: nixon.png
+#  info: Postdoctoral Associate, Department of Astronomy 
+#  duration: Exoplanets
+#  email: mcnixon (at) umd dot edu
+#  number_educ: 0
 
-- name: Arpita Upadhyaya
-  photo: upadhyaya.jpg
-  info: Professor, Department of Physics
-  duration: Biophysics
-  email: arpitau (at) umd dot edu
-  number_educ: 0
+#- name: Arpita Upadhyaya
+#  photo: upadhyaya.jpg
+#  info: Professor, Department of Physics
+#  duration: Biophysics
+#  email: arpitau (at) umd dot edu
+#  number_educ: 0
 
-- name: Esteban Wright
-  photo: wright.jpeg
-  info: Postdoctoral Associate, Department of Astronomy 
-  duration: Small Bodies
-  email: ewrigh10 (at) umd dot edu
-  number_educ: 0
+#- name: Esteban Wright
+#  photo: wright.jpeg
+#  info: Postdoctoral Associate, Department of Astronomy 
+#  duration: Small Bodies
+#  email: ewrigh10 (at) umd dot edu
+#  number_educ: 0
 
 
 
