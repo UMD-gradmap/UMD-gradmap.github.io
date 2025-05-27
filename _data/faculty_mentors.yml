@@ -54,6 +54,13 @@
   email: bolatto (at) umd dot edu
   number_educ: 0
 
+- name: Brian Clark
+  photo: clark.jpg
+  duration: Neutrino astrophysics
+  info: Assistant Professor, Department of Physics
+  email: baclark (at) umd dot edu
+  number_educ: 0
+
 - name: Benedikt Diemer
   photo: diemer.jpg
   duration: Computational astrophysics, galaxies, cosmology
