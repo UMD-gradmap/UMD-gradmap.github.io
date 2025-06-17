@@ -1,12 +1,12 @@
 - name: Mojisola Akinwade
-  photo: earth.jpg
+  photo: students/akinwade.png
   adviser: Kylie Dan, Johnny Seebeck and Sylvain Veilleux
   info:   
   number_educ: 
   education1: 
 
 - name: Alanis Paola Alvarado
-  photo: neptune.jpg
+  photo: students/alvarado.png
   adviser: Alberto Bolatto, Serena Cronin and Keaton Donaghue
   info:   
   number_educ: 
@@ -27,14 +27,14 @@
   education1: 
 
 - name: Jin Young Kim
-  photo: mars.jpg
+  photo: students/kim.png
   adviser: Mark Ugalino and Benedikt Diemer
   info:   
   number_educ: 
   education1: 
 
 - name: Ridmi Madarasinghe 
-  photo: uranus.jpg
+  photo: students/madarasinghe.png
   adviser: Ankita Bera
   info:   
   number_educ: 
