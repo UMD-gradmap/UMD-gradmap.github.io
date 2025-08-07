@@ -3,43 +3,54 @@
   adviser: Kylie Dan, Johnny Seebeck and Sylvain Veilleux
   info:   
   number_educ: 1
-  education1: Prince George's Community College
+  education1: The George Mason University / Prince George's Community College
+  abstract: akinwande.pdf
+  poster: AKINWANDE.pdf
 
 - name: Alanis Paola Alvarado
   photo: students/alvarado.png
   adviser: Alberto Bolatto, Serena Cronin and Keaton Donaghue
   info:   
   number_educ: 1
-  education1: University of Puerto Rico
-
+  education1: University of Puerto Rico at Mayagüez
+  abstract: alvarado.pdf
+  poster: ALVARADO.pdf
+  
 - name: Joanna Chimalilo
   photo: students/chimalilo.png  
   adviser: Hayley Beltz
   info: 
   number_educ: 1
   education1: Texas Tech University
-
+  abstract: chimalilo.pdf
+  poster: CHIMALILO.pdf
+  
 - name: Skye Joegriner
   photo: students/joegriner.png
   adviser: Brian Clark
   info:  
   number_educ: 1
   education1: Montgomery College
-
+  abstract: joegriner.pdf
+  poster: JOEGRINER.pdf
+  
 - name: Jin Young Kim
   photo: students/kim.png
   adviser: Mark Ugalino and Benedikt Diemer
   info:   
   number_educ: 1
-  education1: Wake Technical Community College
-
+  education1: University of North Carolina Chapel Hill / Wake Technical Community College
+  abstract: kim.pdf
+  poster: KIM.pdf
+  
 - name: Ridmi Madarasinghe 
   photo: students/madarasinghe.png
   adviser: Ankita Bera
   info:   
   number_educ: 1
-  education1: Montgomery College
-
+  education1: University of Maryland College Park / Montgomery College
+  abstract: madarasinghe.pdf
+  poster: MADARASINGHE.pdf
 
 
 

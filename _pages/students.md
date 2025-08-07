@@ -22,7 +22,8 @@ permalink: /students
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="150px" height="240px" style="float: left" />
   <h4>{{ member.name }}</h4>
   Mentor: <i>{{ member.adviser }}</i> <br> {{ member.info }}
-  Institute: {{member.education1}}
+  Institute: {{member.education1}} <br>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/writeup/{{ member.abstract }}">Abstract Link</a>, <a href="{{ site.url }}{{ site.baseurl }}/assets/poster/{{ member.poster }}">Poster Link</a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
