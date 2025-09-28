@@ -12,7 +12,7 @@ permalink: /team/
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/gradmap_founders.png" class="img-responsive" title="GRAD-MAP founders: Dr. Ashlee Wilkins (left), Dr. Katie Jameson (center), and Dr. Alex McCormick (right)." width="40%" style="float: left" /> 
 <br>
-<span style="font-size:2em;"> We are a *graduate-student* powered initiative. </span>
+<span style="font-size:2em;"> We are a *graduate student-powered* initiative. </span>
 
 GRAD-MAP is led by a team of graduate students from the Astronomy and Physics Departments at the University of Maryland, with support from faculty and staff in both departments, as well as many volunteers (students, researchers, and faculty) from both departments and across the University of Maryland's campus. GRAD-MAP began in 2013, when graduate students worked to develop a program to change the status quo in physics and astronomy. (Image: *GRAD-MAP founders: Dr. Ashlee Wilkins (left), Dr. Katie Jameson (center), and Dr. Alex McCormick (right).*)<br>
 <br>
