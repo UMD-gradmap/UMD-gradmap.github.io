@@ -1,28 +1,28 @@
-- name: Katie Jameson
+- name: Katie Jameson, PhD
   photo: jameson.jpg
   info: Postdoctoral Researcher, Australian National University 
   duration: Katie founded GRAD-MAP in 2013 with a group of astronomy and physics grad students.
   number_educ: 0
 
-- name: Ashlee Wilkins
+- name: Ashlee Wilkins, PhD
   photo: wilkins.jpg
   info: House Science Committee
   duration: Ashlee was part of the founding team of GRAD-MAP and defended her PhD thesis in 2017. 
   number_educ: 0
 
-- name: Alex McCormick
+- name: Alex McCormick, PhD
   photo: mccormick.jpg
   info: Instructor, University of South Florida
   duration: Alex was part of the founding team of GRAD-MAP and defended his PhD thesis in 2015. 
   number_educ: 0
 
-- name: Amy Steele
+- name: Amy Steele, PhD
   photo: steele.jpeg
   info: Senior Research Associate, Planetary Science Institute
   duration: Amy served on numerous committees in the Astronomy department and as the Team Lead for GRADMAP for two years.
   number_educ: 0
 
-- name: Robyn Smith
+- name: Robyn Smith, PhD
   photo: smith.jpg
   info: now in private sector
   duration: Robyn became team lead in 2016 during her second year at UMD. She was responsible for building ties to the TREND physics REU program.
@@ -34,18 +34,18 @@
   duration: John Collini started working with GRAD-MAP in 2016 by mentoring students and assisting with the python boot-camp of the Winter Workshop.
   number_educ: 0
 
-- name: Milena Crnogorcevic
+- name: Milena Crnogorcevic, PhD
   photo: crnogorcevic.png
   info: Postdoctoral Fellow, Oskar Klein Centre
   duration: Milena joined GRAD-MAP in her first year of graduate school in 2017 and was an Astronomy Team co-lead from 2019. She was also involved in a number of other diversity initiatives at UMD.
   number_educ: 0
 
-- name: Andrew Guo
+- name: Andrew Guo, PhD
   photo: guo.png
   info: Postdoctoral Fellow, Sandia National Laboratory, Co-Lead (2020-2022)
   duration: Andrew taught Python for GRAD-MAP from 2017-2022. 
 
-- name: Charlotte Ward
+- name: Charlotte Ward, PhD
   photo: ward.jpg
   info: Posdoctoral Researcher, Princeton University, Co-Lead (2020-2022)
   duration: In 2018 and 2019, Charlotte mentored Winter Workshop students on AGN research projects and gave various presentations.
@@ -53,13 +53,13 @@
 
 - name: Amitava Banerjee
   photo: banerjee.jpeg
-  info: PhD Candidate, Department of Physics, Co-Lead (2022)
+  info: Postdoctoral Researcher at Cold Spring Harbor Laboratory, Co-Lead (2022)
   duration: Amitava helped with the application review gave presentations and feedback to scholars while they were preparing their talks. 
   number_educ: 0
 
-- name: Tomás Ahumada
+- name: Tomás Ahumada, PhD
   photo: ahumada.jpeg
-  info: GRAD-MAP Volunteer (2019-2021)
+  info: Presidential Postdoctoral Fellow, Caltech, GRAD-MAP Volunteer (2019-2021)
   duration: Tomas mentored students for the Winter Workshop (2021) and has developed and given Python lectures during the 2019-2021 Winter Workshops.
   number_educ: 0
 
