@@ -1,16 +1,16 @@
-- name: Lacey Alley-Press
-  photo: apress.jpeg
-  info: PhD Student, Department of Astronomy
-  duration: 
-  email: laceyap (at) umd dot edu
-  number_educ: 0
+#- name: Lacey Alley-Press
+#  photo: apress.jpeg
+#  info: PhD Student, Department of Astronomy
+#  duration: 
+#  email: laceyap (at) umd dot edu
+#  number_educ: 0
 
-- name: Ell Bogat
-  photo: bogat.jpeg
-  info: PhD Candidate, Department of Astronomy
-  duration: 
-  email: ebogat (at) umd dot edu
-  number_educ: 0
+#- name: Ell Bogat
+#  photo: bogat.jpeg
+#  info: PhD Candidate, Department of Astronomy
+#  duration: 
+#  email: ebogat (at) umd dot edu
+#  number_educ: 0
   
 #- name: Jacob Bringewatt
 #  photo: bringewatt.jpg
@@ -33,12 +33,19 @@
 #  email: cronin (at) umd dot edu
 #  number_educ: 0
   
-#- name: Kylie Dan
-#  photo: dan.jpeg
-#  info: PhD Student, Department of Astronomy
-#  duration: 
-#  email: ebogat (at) umd dot edu
-#  number_educ: 0
+- name: Kylie Dan
+  photo: dan.jpeg
+  info: PhD Student, Department of Astronomy
+  duration: 
+  email: kydan (at) umd dot edu
+  number_educ: 0
+  
+- name: Emeline Fromont
+  photo: fromont.jpg
+  info: PhD Candidate, Department of Astronomy
+  duration: 
+  email: efromont (at) umd dot edu
+  number_educ: 0
   
 #- name: Joe DeMartini
 #  photo: demartini.jpg
@@ -75,12 +82,12 @@
 #  email: jmoore40 (at) umd dot edu
 #  number_educ: 0
 
-- name: Calvin Osinga
-  photo: osinga.jpg
-  info: PhD Candidate, Department of Astronomy 
-  duration: 
-  email: cosinga (at) umd dot edu
-  number_educ: 0
+#- name: Calvin Osinga
+#  photo: osinga.jpg
+#  info: PhD Candidate, Department of Astronomy 
+#  duration: 
+#  email: cosinga (at) umd dot edu
+#  number_educ: 0
 
 #- name: Siddhant Solanki
 #  photo: solanki.jpeg
