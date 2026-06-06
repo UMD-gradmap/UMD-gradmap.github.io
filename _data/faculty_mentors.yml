@@ -1,14 +1,14 @@
 - name: Kylie Dan
   photo: dan.jpeg
   duration: Active Galactic Nuclei
-  info: Graduate student, Department of Astronomy 
+  info: PhD Candidate, Department of Astronomy 
   email: kydan (at) umd dot edu
   number_educ: 0
 
 - name: Johnny Seebeck
   photo: seebeck.png
   duration: Active Galactic Nuclei
-  info: Graduate student, Department of Astronomy
+  info: PhD Candidate, Department of Astronomy
   email: bolatto (at) umd dot edu
   number_educ: 0
 
@@ -43,7 +43,7 @@
 - name: Yash Gursahani
   photo: gursahani.png
   duration: High energy astrophysics
-  info: Graduate student, Department of Astronomy
+  info: PhD Candidate, Department of Astronomy
   email: baclark (at) umd dot edu
   number_educ: 0
 
@@ -57,7 +57,7 @@
 - name: Keyi Ding
   photo: ding.jpg
   duration: Computational astrophysics
-  info: Graduate student, Department of Astronomy
+  info: PhD student, Department of Astronomy
   email: baclark (at) umd dot edu
   number_educ: 0
 
