@@ -60,6 +60,28 @@
   duration: 
   email: efromont (at) umd dot edu
   number_educ: 0
+
+- name: Oliver O'Brien
+  photo: obrien.png
+  info: BS Student, Department of Astronomy
+  duration:
+  email:
+  number_educ: 0
+
+- name: Krish Patel
+  photo: patel.png
+  info: BS Student, Department of Computer Science
+  duration:
+  email:
+  number_educ: 0
+
+- name: Priyanshu Bhattacharya
+  photo: 
+  info: BS Student, Department of Physics
+  duration:
+  email:
+  number_educ: 0
+  
   
 #- name: Joe DeMartini
 #  photo: demartini.jpg
