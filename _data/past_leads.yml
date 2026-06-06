@@ -77,8 +77,14 @@
 
 - name: Arjun Savel
   photo: savel.jpeg
-  info: PhD Candidate, Department of Astronomy, Co-Lead (2022-2025) 
+  info: Astronomy PhD, Co-Lead (2022-2025) 
   duration: Arjun was the Astronomy GRAD-MAP co-lead from 2022 to 2025. Together with Katya, he played a key role in making GRAD-MAP an even more impactful experience for our winter and summer students.
+  number_educ: 0
+
+- name: Shannon Gray
+  photo: gray.JPEG
+  info: Physics PhD, Co-Lead (2024-2026)
+  duration: Shannon was the Physics GRAD-MAP co-lead from 2024 to 2026. They have been involved in all aspects of GRAD-MAP, including mentoring students, giving lectures, and organizing events.
   number_educ: 0
 
 - name: Stuart Vogel

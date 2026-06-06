@@ -33,9 +33,9 @@
 #  email: cronin (at) umd dot edu
 #  number_educ: 0
   
-- name: Kylie Dan
-  photo: dan.jpeg
-  info: PhD Student, Department of Astronomy
+- name: Sander Somers
+  photo: somers.jpg
+  info: PhD Candidate, Department of Astronomy
   duration: 
   email: kydan (at) umd dot edu
   number_educ: 0
@@ -43,6 +43,20 @@
 - name: Emeline Fromont
   photo: fromont.jpg
   info: PhD Candidate, Department of Astronomy
+  duration: 
+  email: efromont (at) umd dot edu
+  number_educ: 0
+
+- name: Brooke Kaluzienski
+  photo: kaluzienski.jpg
+  info: PhD Student, Department of Astronomy
+  duration: 
+  email: efromont (at) umd dot edu
+  number_educ: 0
+
+- name: Charles Reisner
+  photo: reisner.jpg
+  info: PhD Student, Department of Astronomy
   duration: 
   email: efromont (at) umd dot edu
   number_educ: 0

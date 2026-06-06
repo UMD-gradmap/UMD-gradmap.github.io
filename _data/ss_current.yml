@@ -1,56 +1,65 @@
-- name: Mojisola Akinwande
-  photo: students/akinwande.png
-  adviser: Kylie Dan, Johnny Seebeck and Sylvain Veilleux
+- name: Diepanh Do
+  photo: jupiter.jpg
+  adviser: Brian Clark
   info:   
   number_educ: 1
-  education1: The George Washington University / Prince George's Community College
-  abstract: akinwande.pdf
-  poster: AKINWANDE.pdf
+  education1: Simmons University
+  abstract: 
+  poster: 
 
-- name: Alanis Paola Alvarado
-  photo: students/alvarado.png
-  adviser: Alberto Bolatto, Serena Cronin and Keaton Donaghue
+- name: Tuan Nguyen
+  photo: uranus.jpg
+  adviser: Yaeji Kim and James Bauer
   info:   
   number_educ: 1
-  education1: University of Puerto Rico at Mayagüez
-  abstract: alvarado.pdf
-  poster: ALVARADO.pdf
+  education1: Dickinson College
+  abstract: 
+  poster: 
   
-- name: Joanna Chimalilo
-  photo: students/chimalilo.png  
-  adviser: Hayley Beltz
+- name: Jacqueline Johnson (MDSGC Fellow)
+  photo: earth.jpg
+  adviser: Yash Gursahani and Lia Hankla
   info: 
   number_educ: 1
-  education1: Texas Tech University
-  abstract: chimalilo.pdf
-  poster: CHIMALILO.pdf
+  education1: Notre Dame of Maryland
+  abstract: 
+  poster: 
   
-- name: Skye Joegriner
-  photo: students/joegriner.png
-  adviser: Brian Clark
+- name: Ashok Paudel
+  photo: jupiter.jpg
+  adviser: Robert Stein
   info:  
   number_educ: 1
-  education1: Montgomery College
-  abstract: joegriner.pdf
-  poster: JOEGRINER.pdf
+  education1: Texas State University
+  abstract: 
+  poster: 
   
-- name: Jin Young Kim
-  photo: students/kim.png
-  adviser: Mark Ugalino and Benedikt Diemer
+- name: Ana Fernandez-Napp 
+  photo: uranus.jpg
+  adviser: Keyi Ding and Massimo Ricotti
   info:   
   number_educ: 1
-  education1: University of North Carolina Chapel Hill / Wake Technical Community College
-  abstract: kim.pdf
-  poster: KIM.pdf
-  
-- name: Ridmi Madarasinghe 
-  photo: students/madarasinghe.png
-  adviser: Ankita Bera
-  info:   
+  education1: Prince George's Community College
+  abstract: 
+  poster: 
+
+- name: Dion Meeks (MDSGC Fellow)
+  photo: earth.jpg
+  adviser: Johnny Seebeck and Kylie Dan 
+  info:  
   number_educ: 1
-  education1: University of Maryland College Park / Montgomery College
-  abstract: madarasinghe.pdf
-  poster: MADARASINGHE.pdf
+  education1: Towson University
+  abstract: 
+  poster: 
+
+- name: Anna Minor (MDSGC Fellow)
+  photo: jupiter.jpg
+  adviser: Jonathan Brande and Megan Weiner-Mansfield
+  info: 
+  number_educ: 1
+  education1: Anne Arundel Community College
+  abstract: 
+  poster: 
 
 
 

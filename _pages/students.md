@@ -8,9 +8,43 @@ permalink: /students
 <center>
   <img src="{{ site.url }}{{ site.baseurl }}/images/1.png" width="100%" style="box-shadow: none; border: none; margin: 0 auto; display: block; width: 100%;" />
 </center>
-## 2025
+
+## 2026
 {% assign number_printed = 0 %}
 {% for member in site.data.ss_current%}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive"  width="150px" height="240px" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  Mentor: <i>{{ member.adviser }}</i> <br> {{ member.info }}
+  Institute: {{member.education1}} <br>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/writeup/{{ member.abstract }}">Abstract Link</a>, <a href="{{ site.url }}{{ site.baseurl }}/assets/poster/{{ member.poster }}">Poster Link</a>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+<br>
+
+
+## 2025
+{% assign number_printed = 0 %}
+{% for member in site.data.ss_2025%}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

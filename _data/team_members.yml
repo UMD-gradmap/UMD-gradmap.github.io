@@ -1,11 +1,3 @@
-- name: Shannon Gray
-  photo: gray.JPEG
-  info: Physics PhD Candidate <br> Particle astrophysics
-  email: sjgray@umd.edu
-  number_educ: 2
-  education1: PhD Physics, University of Maryland
-  education2: BA Physics, Colby College (2021)
-  
 - name: Yash Gursahani
   photo: gursahani.png
   info: Astronomy PhD Student <br> High energy astrophysics
