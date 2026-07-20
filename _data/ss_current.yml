@@ -14,7 +14,7 @@
   number_educ: 1
   education1: Dickinson College
   abstract: nguyen.pdf
-  poster: 
+  poster: nguyen.pdf
   
 - name: Jacqueline Johnson (MDSGC Fellow)
   photo: johnson.png
@@ -23,7 +23,7 @@
   number_educ: 1
   education1: Notre Dame of Maryland
   abstract: johnson.pdf
-  poster: 
+  poster: johnson.pdf
   
 - name: Ashok Paudel
   photo: paudel.png
@@ -32,7 +32,7 @@
   number_educ: 1
   education1: Texas State University
   abstract: paudel.pdf
-  poster: 
+  poster: paudel.pdf
   
 - name: Ana Fernandez-Napp (MDSGC Fellow)
   photo: fernandeznapp.png
