@@ -37,7 +37,7 @@
   photo: somers.jpg
   info: PhD Candidate, Department of Astronomy
   duration: 
-  email: kydan (at) umd dot edu
+  email: rssomers (at) umd dot edu
   number_educ: 0
   
 - name: Emeline Fromont
@@ -51,19 +51,19 @@
   photo: kaluzienski.jpg
   info: PhD Student, Department of Astronomy
   duration: 
-  email: efromont (at) umd dot edu
+  email: bkaluzie (at) umd dot edu
   number_educ: 0
 
 - name: Charles Reisner
   photo: reisner.jpg
   info: PhD Student, Department of Astronomy
   duration: 
-  email: efromont (at) umd dot edu
+  email: creisner (at) umd dot edu
   number_educ: 0
 
 - name: Oliver O'Brien
   photo: obrien.png
-  info: BS Student, Department of Astronomy
+  info: MSc Student, University of Edinburgh
   duration:
   email:
   number_educ: 0

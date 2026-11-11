@@ -9,75 +9,75 @@
   photo: seebeck.png
   duration: Active Galactic Nuclei
   info: PhD Candidate, Department of Astronomy
-  email: bolatto (at) umd dot edu
+  email: jseebeck (at) umd dot edu
   number_educ: 0
 
-- name: Brian Clark
+- name: Brian Clark, PhD
   photo: clark.jpg
   duration: Neutrino astrophysics
   info: Assistant Professor, Department of Physics
   email: baclark (at) umd dot edu
   number_educ: 0
 
-- name: Robert Stein
+- name: Robert Stein, PhD
   photo: stein.jpg
   duration: Time-domain astronomy
   info: Postdoctoral Scholar, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: rdstein (at) umd dot edu
   number_educ: 0
 
-- name: Jonathan Brande
+- name: Jonathan Brande, PhD
   photo: brande.png
   duration: Exoplanets
   info: Postdoctoral Scholar, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: jbrande (at) umd dot edu
   number_educ: 0
 
-- name: Megan Weiner Mansfield
+- name: Megan Weiner Mansfield, PhD
   photo: weinermansfield.jpg
   duration: Exoplanets
-  info: Assistant Professor, Department of Physics
-  email: baclark (at) umd dot edu
+  info: Assistant Professor, Department of Astronomy
+  email: mwm (at) umd dot edu
   number_educ: 0
 
 - name: Yash Gursahani
   photo: gursahani.png
   duration: High energy astrophysics
   info: PhD Candidate, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: yashag (at) umd dot edu
   number_educ: 0
 
-- name: Lia Hankla
+- name: Lia Hankla, PhD
   photo: hankla.jpg
   duration: High energy astrophysics
-  info: Postdoctoral Scholar (Einstein Fellow), Department of Astronomy
-  email: baclark (at) umd dot edu
+  info: Postdoctoral Scholar (NHFP Einstein Fellow), Princeton Astronomy
+  email: lia.hankla (at) gmail dot com
   number_educ: 0
 
 - name: Keyi Ding
   photo: ding.jpg
   duration: Computational astrophysics
   info: PhD student, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: kyding (at) umd dot edu
   number_educ: 0
 
-- name: Massimo Ricotti
+- name: Massimo Ricotti, PhD
   photo: ricotti.jpg
   duration: Computational astrophysics
-  info: Professor, Department of Physics
-  email: baclark (at) umd dot edu
+  info: Professor, Department of Astronomy
+  email: ricotti (at) umd dot edu
   number_educ: 0
 
-- name: Yaeji Kim
+- name: Yaeji Kim, PhD
   photo: kim.jpg
-  duration: Small bodies
+  duration: Small bodies, Solar system
   info: Research Scientist, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: ykim1231 (at) umd dot edu
   number_educ: 0
 
-- name: James Bauer
+- name: James Bauer, PhD
   photo: bauer.png
   duration: Small bodies, Solar system
   info: Research Professor, Department of Astronomy
-  email: baclark (at) umd dot edu
+  email: gerbsb (at) umd dot edu
   number_educ: 0
