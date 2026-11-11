@@ -56,7 +56,7 @@ permalink: /
 
 GRAD-MAP aims to improve future prospects for those without access to research in Astronomy and Physics. In doing so, we additionally provide opportunities for graduate students to gain teaching and mentoring experience. Our method centers around undergraduate students at community colleges and institutions that do not offer STEM research internships. We seek to inform these students about careers in physics and astronomy, teach them a variety of research skills, and provide opportunities for students to gain research experience. 
 
-We are supported by the [Physics](https://umdphysics.umd.edu/) and [Astronomy](https://www.astro.umd.edu/) departments at the University of Maryland, College Park. GRAD-MAP is funded by the University of Maryland [College of Computer, Mathematical, & Natural Sciences](https://cmns.umd.edu/), [The Institute for Physical Science and Technology](https://ipst.umd.edu/) (IPST), and the NSF [CAREER](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), [PIRE](https://new.nsf.gov/funding/opportunities/partnerships-international-research-education-pire), and [AAG](https://new.nsf.gov/funding/opportunities/astronomy-astrophysics-research-grants-aag) programs. 
+We are supported by the [Physics](https://umdphysics.umd.edu/) and [Astronomy](https://www.astro.umd.edu/) departments at the University of Maryland, College Park. GRAD-MAP is funded by the University of Maryland [College of Computer, Mathematical, & Natural Sciences](https://cmns.umd.edu/), [The Institute for Physical Science and Technology](https://ipst.umd.edu/) (IPST), and the NSF [CAREER](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career), [PIRE](https://new.nsf.gov/funding/opportunities/partnerships-international-research-education-pire), and [AAG](https://new.nsf.gov/funding/opportunities/astronomy-astrophysics-research-grants-aag) programs. We are also grateful to the [Maryland Space Grant Consortium](https://https://md.spacegrant.org/) and the [Do Good Institute](https://dogood.umd.edu) at the University of Maryland for their support.
 
 <br> 
 
@@ -65,6 +65,8 @@ We are supported by the [Physics](https://umdphysics.umd.edu/) and [Astronomy](h
 <figure class="fifth">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/astro.png" style="width: 120px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mdsgc.png" style="width: 120px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dogood.png" style="width: 120px"> 
 <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics.png" style="width: 250px; margin-right:6px"> 
