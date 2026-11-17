@@ -5,9 +5,8 @@ permalink: /codelab/
 ---
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/codelab.png" alt="Code Lab logo" style="max-height: 90px; max-width: 220px; object-fit: contain;" />
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dogood.jpeg" alt="Do Good Institute logo" style="max-height: 90px; max-width: 220px; object-fit: contain;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/codelab.png" alt="Code Lab logo" style="max-height: 180px; max-width: 400px; object-fit: contain;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dogood.jpeg" alt="Do Good Institute logo" style="max-height: 180px; max-width: 180px; object-fit: contain;" />
 
 
 
@@ -20,7 +19,7 @@ Welcome to GRAD-MAP Code Lab! This is a platform designed for *anyone* to learn 
 
 Code Lab includes a GitHub repository with Jupyter notebooks, Python scripts, and data, which is everything you need to start coding. Additionally, we will provide video lectures in the form of a YouTube playlist for our base notebooks (lectures 0-5). 
 
-** Code Lab will be released to the public in Spring 2027. We hope to see you back here soon! **
+**Code Lab will be released to the public in Spring 2027. We hope to see you back here soon!**
   
 
   <!-- <div style="max-width: 900px; margin: 0 auto 2rem;">
